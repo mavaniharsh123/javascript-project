@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;400&family=Open+Sans+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;400&family=Manrope&family=Open+Sans+Condensed:wght@300&display=swap');
+
+body{
+    background-color: #3D087B;
+    height: 618px;
+}
+
+
+.clk{
+    margin-top: 33px;
+    margin-left: 100px;
+    width: 216px;
+}
+
+#box1{
+    width: 450px;
+    height: 100px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    top: -83px;
+    left: 895px;
+}
+
+#Tbox1{
+    width: 60px;
+    height: 70px;
+    color: #8A11BF;
+    font-family: 'Barlow', sans-serif;
+    margin-top: 34px;
+    font-size: 26px;
+}
+
+
+#Tboxx2{
+    width: 70px;
+    height: 70px;
+    background-image: url(./img/timeline.svg);
+    color: #8A11BF;
+    font-family: 'Barlow', sans-serif;
+}
+
+#Tbox2{
+    font-size: 31px;
+    padding: 0px 6px 0px 18px;
+}
+
+#Tboxx3{
+    width: 70px;
+    height: 70px;
+    background-color: #F6E2FF;
+    color: #8A11BF;
+    font-family: 'Barlow', sans-serif;
+}
+
+
+#Tbox3{
+    font-size: 31px;
+    padding: 0px 6px 0px 18px;
+}
+
+
+#Tboxx4{
+    width: 60px;
+    height: 70px;
+    background-color: #F6E2FF;
+    color: #8A11BF;
+    font-family: 'Barlow', sans-serif;
+}
+
+
+#Tbox4{
+    font-size: 31px;
+    padding: 0px 6px 0px 18px;
+}
+
+
+#Tboxx5{
+    width: 60px;
+    height: 70px;
+    background-image: url(./img/AM_svg.svg);
+    color: white;
+    font-family: 'Barlow', sans-serif;
+}
+
+#Tbox5{
+    margin-top: 17px;
+    margin-left: 11px;
+    font-size: 29px;
+}
+
+#inside1{
+    color: #8A11BF; 
+    padding: 2px 6px 4px 9px;  
+}
+
+
+#inside2{
+    color: #8A11BF;  
+    padding: 2px 6px 4px 9px; 
+}
+
+
+#inside3{
+    color: #8A11BF;  
+    padding: 2px 6px 4px 9px; 
+}
+
+#colun1{
+    color: #8A11BF;
+    width: 10px;
+    height: 70px;
+    font-size: 34px;
+    margin-top: 20px;
+
+}
+
+
+#colun2{
+    color: #8A11BF;
+    width: 10px;
+    height: 70px;
+    font-size: 34px;
+    margin-top: 20px;
+}
+
+#colun2{
+    width: 10px;
+    height: 70px;
+    font-size: 34px;
+}
+
+#box2{
+    width: 566px;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 69px;
+    margin-top: -23px;
+}
+
+.wk{
+    font-family: 'Manrope', sans-serif;
+    color: #3D087B;
+    position: relative;
+    top: -36px;
+    left: 130px;
+}
+
+.lun{
+    font-family: 'Manrope', sans-serif;
+    color: #3D087B;
+    position: relative;
+    top: -36px;
+    left: 130px;
+}
+
+.nap{
+    font-family: 'Manrope', sans-serif;
+    color: #3D087B;
+    position: relative;
+    top: -40px;
+    left: 129px;
+}
+
+#wake{    
+    font-family: 'Manrope', sans-serif;
+    position: relative;
+    color: #3D087BDE;
+    top: -66px;
+    padding: 7px 34px;
+    left: 350px;
+    font-size: 15px;
+    border: 2px solid #EDEDED;
+}
+
+#lunch{
+    font-family: 'Manrope', sans-serif;
+    color: #3D087B;
+    position: relative;
+    left: 350px;
+    font-size: 15px;
+    padding: 7px 34px;
+    top: -64px;
+    border: 2px solid #EDEDED;
+}
+
+#dinr{
+    font-family: 'Manrope', sans-serif;
+    color: #3D087B;
+    position: relative;
+    left: 350px;
+    font-size: 15px;
+    padding: 7px 34px;
+    border: 2px solid #EDEDED;
+    top: -69px;
+}
+
+.btm1{
+    border-left: 2px solid #C2C2C2;
+    height: 30px;
+    margin-left: 44px;
+    margin-top: -61px;
+}
+
+.btm2{
+    border-left: 2px solid #C2C2C2;
+    height: 30px;
+    margin-left: 44px;
+    margin-top: -56px;
+}
+
+.frst{
+    margin-top: 26px;
+    margin-left: 30px;
+}
+
+#sec{
+    margin-left: 28px;
+}
+
+#trd{
+    margin-left: 28px;
+    margin-top: 18px;
+}
+
+#box3{
+    width: 488px;
+    height: 502px;
+    background-color: white; 
+    border-radius: 18px;
+    position: absolute;
+    left: 888px;
+    top: 204px;
+    z-index: 2;
+}
+#imgL{
+    padding: 23px;
+    width: 442px;
+    height: 442px;
+}
+
+#box4{
+    width: 300px;
+    height: 60px;
+    background-image: linear-gradient(113deg,#6E54EC,#CB52F8,#FC5EFF,#F1A7C5);
+    color: white;
+    margin-left: 70px;
+    border-radius: 6px;
+    margin-top: -100px;
+    text-align: center;
+    height: 56px;
+    font-size: 29px;
+}
+
+#sm{
+    padding: 18px 40px 0px 51px;
+    position: absolute;
+    font-size: 36px;
+    font-weight: bold;
+    color: blueviolet;
+    font-family: cursive;
+}
